@@ -136,6 +136,7 @@ Após a realização do teste, foi montada a matriz de confusão, bem como pode 
 Assim sendo, o resultado obtido foi de 81,25% de acerto, o qual pode ser observado na seguinte figura.
 
 ![Resultados](https://github.com/gabrielvrl/Machine-Learning-ECT/blob/master/Imagens/resultados.png)
+
 Na Fig. (06), é perceptível os resultados da matriz de confusão, bem como a taxa de acerto, que foi de 81,25%, além da quantidade de dados utilizados para teste, que foram de 112.
 
 
